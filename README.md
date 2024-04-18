@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nguyen Thac Bao</h1>
+<h1 align="center">Hello, I'm Nguyen Thac Bao</h1>
 <h3 align="center">I'm Java Developer || Back-end Developer</h3>
 
 
@@ -12,7 +12,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### `Technologies`
-![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-SpringBoot-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=green
+)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Spring Security](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ### `Full Projects`
