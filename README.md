@@ -12,12 +12,17 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### `Technologies`
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring%20security&logoColor=green
+![Spring Boot](https://img.shields.io/badge/-Spring-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green
+
 )
-![Spring Data JPA](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Spring Security](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-000?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green
+
+)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-000?style=flat-square&logo=spring%20security&logoColor=black&labelColor=green&color=green
+)
 ### `Full Projects`
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/pet-shop)
+[![](https://img.shields.io/badge/Website-Thú_Cưng-ff69b4?style=for-the-badge&logo=paw&logoColor=white
+)](https://github.com/thacbaonguyen/pet-shop)
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/social-app-microservices)
 
 ### `Connect with me`
