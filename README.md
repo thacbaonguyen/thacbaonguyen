@@ -1,5 +1,5 @@
 <h1 align="center">Nguyen Thac Bao</h1>
-<h3 align="center">I'm Java Developer || Back-end Developer</h3>
+<h3 align="center">Java Developer || Back-end Developer</h3>
 
 
 
