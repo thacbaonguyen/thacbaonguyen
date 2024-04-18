@@ -17,9 +17,10 @@
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-000?style=flat-square&logo=spring%20security&logoColor=black&labelColor=green&color=green
 )
 ### `Full Projects`
-[![](https://img.shields.io/badge/-pet_shop-001?style=flat-square&logo=spring&logoColor=black&labelColor=pink&color=pink
+[![](https://img.shields.io/badge/-Pet_app-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue
 )](https://github.com/thacbaonguyen/pet-shop)
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/social-app-microservices)
+[![](https://img.shields.io/badge/-Social_media-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue
+)](https://github.com/thacbaonguyen/social-app-microservices)
 
 ### `Connect with me`
 <p align="left">
