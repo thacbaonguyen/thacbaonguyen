@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Nguyen Thac Bao</h1>
 <h3 align="center">I'm Java Developer || Back-end Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thacbaonguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thacbaonguyen/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/thbaonguyen.25.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thbaonguyen.25.11/" height="30" width="40" /></a>
-</p>
+
 
 ### Languages
 
@@ -23,4 +19,8 @@
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/pet-shop)
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/social-app-microservices)
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thacbaonguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thacbaonguyen/" height="18.75" width="25" /></a>
+<a href="https://fb.com/https://www.facebook.com/thbaonguyen.25.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thbaonguyen.25.11/" height="18.75" width="25" /></a>
+</p>
