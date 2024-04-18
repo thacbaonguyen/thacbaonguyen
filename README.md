@@ -12,12 +12,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### `Technologies`
-![Spring Boot](https://img.shields.io/badge/-Spring-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green
-
-)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-000?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green
-
-)
+![Spring Boot](https://img.shields.io/badge/-Spring-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green)
+![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-000?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-000?style=flat-square&logo=spring%20security&logoColor=black&labelColor=green&color=green
 )
 ### `Full Projects`
