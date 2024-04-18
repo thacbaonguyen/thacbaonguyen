@@ -9,8 +9,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-
+![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Data JPA](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Security](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/pet-shop)
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thacbaonguyen/social-app-microservices)
