@@ -1,4 +1,4 @@
-![Tên ảnh](https://github.com/thacbaonguyen/thacbaonguyen/blob/main/cover-thacbao.png)
+![Tên ảnh](https://github.com/thacbaonguyen/thacbaonguyen/blob/main/cover-thacbao-2.png)
 
 <div align="center">
 
