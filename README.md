@@ -1,5 +1,3 @@
-<h1 align="center">Nguyen Thac Bao</h1>
-<h3 align="center">Java Developer || Back-end Developer</h3>
 
 ![Tên ảnh](https://github.com/thacbaonguyen/thacbaonguyen/blob/main/cover-thacbao.png)
 
