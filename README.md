@@ -4,21 +4,27 @@
 
 ### `Languages`
 
-![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![TS](https://img.shields.io/badge/-typescript-000?&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-python-000?&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
 ### `Technologies`
 ![Spring Boot](https://img.shields.io/badge/-Spring-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-000?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-000?style=flat-square&logo=spring%20security&logoColor=black&labelColor=green&color=green)
+![Angular CLI](https://img.shields.io/badge/-angular-DD0031?&logo=angular)
+![Angular CLI](https://img.shields.io/badge/-html-000?&logo=html5)
+![Angular CLI](https://img.shields.io/badge/-css-007BFF?&logo=css3)
+![Angular CLI](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
+
+
 
 ### `Full Projects`
-[![](https://img.shields.io/badge/-Pet_app-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/pet-shop)
+[![](https://img.shields.io/badge/-Pet_adoption-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/pet-shop)
+[![](https://img.shields.io/badge/-Res_management-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/restaurant_repo)
+[![](https://img.shields.io/badge/-CodeSphere-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/codeSphere_repo)
 [![](https://img.shields.io/badge/-Social_media-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/social-app-microservices)
+
 
 ### `Connect with me`
 <p align="center">
