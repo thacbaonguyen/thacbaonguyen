@@ -1,34 +1,104 @@
-![Tên ảnh](https://github.com/thacbaonguyen/thacbaonguyen/blob/main/cover-2025.png)
+
+---
 
 <div align="center">
 
-### `Languages`
+# Hey, I'm Nguyen Thac Bao
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TS](https://img.shields.io/badge/-typescript-000?&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-python-000?&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF0040,50:8000FF,75:0080FF,100:00FFFF&height=320&section=header&text=Nguyen%20Thac%20Bao&fontSize=60&fontColor=1de5e5&animation=twinkling&fontAlignY=30&desc=Im%20a%20developer%20who%20loves%20coding&descAlignY=65&descSize=20&stroke=8c0c4c&strokeWidth=2&textBg=true&v=1" alt="Profile Banner"/>
+</div>
 
-### `Technologies`
-![Spring Boot](https://img.shields.io/badge/-Spring-000%3F%26logo%3DSpring?style=flat-square&logo=spring&logoColor=black&labelColor=green&color=green)
-![Angular CLI](https://img.shields.io/badge/-angular-DD0031?&logo=angular)
-![Angular CLI](https://img.shields.io/badge/-html-000?&logo=html5)
-![Angular CLI](https://img.shields.io/badge/-css-007BFF?&logo=css3)
-![Angular CLI](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
+🎓 **IT Student @ PTIT** &nbsp;|&nbsp; 💼 **Backend Developer** &nbsp;&nbsp;
+
+*Building scalable backend systems & sharing knowledge through code*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thacbaonguyen/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thbaonguyen.25.11/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar.thbaonguyen@gmail.com)
+[![Maven Central](https://img.shields.io/badge/Maven_Central-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://central.sonatype.com/artifact/io.github.thacbaonguyen/itemcf)
+
+</div>
+
+---
+
+##  Tech Stack
+
+<div align="">
+
+**Languages:** 
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,ts,cpp,go)](https://skillicons.dev)  
+
+**Frontend:** 
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,vite)](https://skillicons.dev)  
+
+**Backend:** 
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs)](https://skillicons.dev)  
 
 
+**DevOps & Tools:** 
 
-### `Full Projects`
-[![](https://img.shields.io/badge/-Pet_adoption-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/pet-shop)
-[![](https://img.shields.io/badge/-Res_management-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/restaurant_repo)
-[![](https://img.shields.io/badge/-CodeSphere-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/codeSphere_repo)
-[![](https://img.shields.io/badge/-Social_media-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/social-app-microservices)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,nginx,grafana,linux)](https://skillicons.dev)  
 
+</div>
 
-### `Connect with me`
-<p align="center">
-<a href="https://www.linkedin.com/in/thacbaonguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thacbaonguyen/" height="18.75" width="25" /></a>
-<a href="https://www.facebook.com/thbaonguyen.25.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thbaonguyen.25.11/" height="18.75" width="25" /></a>
-</p>
+---
+
+##  Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3> <a href="https://github.com/thacbaonguyen/neki-ecommerce">Neki Platform</a></h3>
+      <p>Production-ready e-commerce backend with OAuth2 (Google/Facebook), RBAC, Redis caching, Elasticsearch search & ranking, PayOS payments, item-based recommendation system, Grafana monitoring, and full Docker + Nginx deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3> <a href="https://github.com/thacbaonguyen/codeSphere">CodeSphere</a></h3>
+      <p>LeetCode-style platform with sandboxed code execution (Judge0), CPU/memory-limited grading, video processing (FFmpeg), AWS S3 storage, OAuth2 auth, and full GitLab CI/CD pipeline with Harbor Registry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3> <a href="https://github.com/thacbaonguyen/item-cf-lib">ItemCF — Java Library</a></h3>
+      <p>Open-source Java library for item-based collaborative filtering recommendation systems. Published to <strong>Maven Central</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Maven_Central-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thacbaonguyen/pet-shop">Pet Adoption Platform</a></h3>
+      <p>Full-stack pet adoption platform connecting shelters and adopters with comprehensive management features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+*Thanks for visiting! Feel free to explore my repos and reach out.* 
+
 </div>
